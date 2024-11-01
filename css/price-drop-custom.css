@@ -1,0 +1,6 @@
+input#pricedrop_alert_email {width: inherit;}
+.single-product form.cart input{height: 100%;width: 10em !important;}
+.pricedrop_alert_main.price_drop_alert {width: 550px;}
+p.wpda_msg {margin-top: 10px;font-size: 14px;}
+.pricedrop_alert_form{display: flex;}
+input#pricedrop_alert_submit {margin-left: 10px;}
